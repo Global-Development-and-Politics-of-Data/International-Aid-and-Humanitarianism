@@ -6,11 +6,15 @@ Data in international aid and humanitarianism is varied and complex. A multitude
 
 # **Data Sources**
 
-The data come from X, Y, Z. 
+The data come from: 
+  X, 
+  Y, 
+  Z. 
 
 # **Software**
 
 This module relies on Excel. Excel offers an easy to use, common platform for data management and analysis. 
 
-# **Process for Tidying Data**
+# **Workflow**
 
+![Workflow](https://user-images.githubusercontent.com/78934470/117070573-8ac30880-acf3-11eb-810d-c4033c54fd14.jpg)
