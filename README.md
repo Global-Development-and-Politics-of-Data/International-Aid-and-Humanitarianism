@@ -7,13 +7,14 @@ Data on international aid and humanitarian assistance is varied and complex and 
 # **Data Sources**
 
 The data come from: 
-  X, 
-  Y, 
-  Z. 
+  ECHO_Assistance, The European Civil Protection and Humanitarian Aid Operations, downloaded from https://euaidexplorer.ec.europa.eu/content/explore/recipients_en
+  USAID and US DoS, US Department of State and the United States Agency for International Development, downloaded from https://foreignassistance.gov/consolidation (these websites are consolodating, to ensure students have access to the data it is available here) 
+  Sida_Assistance, Swedish International Development Cooperation Agency, downloaded from OpenAid.se/en: https://openaid.se/en/activities/overview?recipient=LB&sectorCategory=720&year=2016
+  Vulnerability_Assessment, UN OCHCA and The Humanitarian Data Exchange, downloaded from https://data.humdata.org/dataset/vulnerability-assessment-of-syrian-refugees-in-lebanon
 
 # **Software**
 
-This module relies on Excel. Excel offers an easy to use, common platform for data management and analysis. 
+This module relies on Excel. Excel offers an easy to use, common platform for data management and analysis. Many universities offer access to the Microsoft Office Suite of which Excel is a part. Google Sheets is an open source version that is available for download here: https://www.google.com/sheets/about/
 
 # **Workflow**
 
