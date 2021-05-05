@@ -7,16 +7,16 @@ Data on international aid and humanitarian assistance is varied, complex, and pr
 # **Data Sources**
 
 The data come from: 
-* _italic_ ECHO_Assistance, The European Civil Protection and Humanitarian Aid Operations 
+* _ECHO_Assistance, The European Civil Protection and Humanitarian Aid Operations_ 
   + downloaded from https://euaidexplorer.ec.europa.eu/content/explore/recipients_en
  
-* _italic_ USAID and US DoS, US Department of State and the United States Agency for International Development 
+* _USAID and US DoS, US Department of State and the United States Agency for International Development_ 
   + downloaded from https://foreignassistance.gov/consolidation (these websites are consolodating, to ensure students have access to the data it is available here) 
   
-* _italic_ Sida_Assistance, Swedish International Development Cooperation Agency 
+* _Sida_Assistance, Swedish International Development Cooperation Agency_ 
   + downloaded from OpenAid.se/en: https://openaid.se/en/activities/overview?recipient=LB&sectorCategory=720&year=2016
   
-* _italic_ Vulnerability_Assessment, UN OCHCA and The Humanitarian Data Exchange
+* _Vulnerability_Assessment, UN OCHCA and The Humanitarian Data Exchange_
   + downloaded from https://data.humdata.org/dataset/vulnerability-assessment-of-syrian-refugees-in-lebanon
 
 # **Software**
